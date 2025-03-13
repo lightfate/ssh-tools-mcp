@@ -1,6 +1,0 @@
-# Core dependencies
-paramiko>=3.4.0
-cryptography>=42.0.5
-pyOpenSSL>=24.0.0
-typer>=0.9.0
-rich>=13.7.0
